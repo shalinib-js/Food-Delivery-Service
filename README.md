@@ -5,10 +5,10 @@ Built with beginner-friendly React patterns, styled with Bootstrap and custom CS
 
 ## Features
 
--Browse food items with responsive cards
--Apply coupon codes for discounts
--Checkout & Payment section
--Clean, mobile-friendly UI with Bootstrap + CSS
+- Browse food items with responsive cards.
+- Apply coupon codes for discounts
+- Checkout & Payment section
+- Clean, mobile-friendly UI with Bootstrap + CSS
 
 
 ## 🚀 Live Demo
@@ -23,9 +23,9 @@ Built with beginner-friendly React patterns, styled with Bootstrap and custom CS
 
 ## Tech Stack
 
--HTML + CSS + Bootstrap
--JavaScript (ES6+)
--Netlify (for deployment)
+- HTML + CSS + Bootstrap
+- JavaScript (ES6+)
+- Netlify (for deployment)
 
 
 
