@@ -10,6 +10,11 @@ Built with beginner-friendly React patterns, styled with Bootstrap and custom CS
 - Checkout & Payment section
 - Clean, mobile-friendly UI with Bootstrap + CSS
 
+## Tech Stack
+
+- HTML + CSS + Bootstrap
+- JavaScript (ES6+)
+- Netlify (for deployment)
 
 ## 🚀 Live Demo
   Right-click the link and open in a new tab:
@@ -36,11 +41,7 @@ Watch Video section
 
 
 
-## Tech Stack
 
-- HTML + CSS + Bootstrap
-- JavaScript (ES6+)
-- Netlify (for deployment)
 
 
 
