@@ -14,7 +14,7 @@ Built with beginner-friendly React patterns, styled with Bootstrap and custom CS
 ## 🚀 Live Demo
   Right-click the link and open in a new tab:
 
-👉 [View live on Netlify](https://shalinib-js.github.io/JobTracker-App/)
+👉 [View live on Netlify]( https://shalinib-js.github.io/Food-Delivery-Service/)
 
 ## Screenshots
 ### Hero Section
