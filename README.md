@@ -17,24 +17,25 @@ Built with beginner-friendly React patterns, styled with Bootstrap and custom CS
 👉 View live on Netlify
 
 ## Screenshots
-
-![JobAppTracker]( <img width="1346" height="568" alt="FoodSite" src="https://github.com/user-attachments/assets/f82ac772-014b-4cc5-8300-3da7b7e43792" />
- )
+### Hero Section
+<img width="1346" height="568" alt="FoodSite" src="https://github.com/user-attachments/assets/f00e82e2-f080-41a5-b261-2e0957dc3970" />
+ Service 
+<img width="1346" height="649" alt="foodsite2" src="https://github.com/user-attachments/assets/ec31442a-8561-496f-90c4-4f924b8e3d54" />
+ Menu Cards
+<img width="1349" height="652" alt="foodsite3" src="https://github.com/user-attachments/assets/7d165fda-a3bf-415c-aac7-83dcab260043" />
+Watch Video section
+<img width="1346" height="648" alt="foodsite4" src="https://github.com/user-attachments/assets/4d5607ad-f5e5-41c9-a8d2-d2ba730d63a6" />
+ Delivey Payment
+<img width="1344" height="653" alt="foodsite5" src="https://github.com/user-attachments/assets/b755fe8e-dba4-4d63-9fa9-0af074bdaec9" />
+ Modal and Footer
+<img width="1341" height="649" alt="foodsite6" src="https://github.com/user-attachments/assets/60b70fb2-d49e-4967-bcbc-a34bf31aa86e" />
+ Full View
  
-![JobAppTracker]( <img width="1346" height="649" alt="foodsite2" src="https://github.com/user-attachments/assets/cf7fb91a-6620-46bb-94eb-14097f950e53" />
-)
+![FullView-foodservice](https://github.com/user-attachments/assets/fbe0d8cf-4e90-4ad4-9436-c046c4670634)
 
-![JobAppTracker]( <img width="1349" height="652" alt="foodsite3" src="https://github.com/user-attachments/assets/947d4819-433a-41c7-9e19-bf67cf277587" />
-)
 
-![JobAppTracker]( <img width="1346" height="648" alt="foodsite4" src="https://github.com/user-attachments/assets/f1a49560-29e3-4f0c-97d3-c5de559b142f" />
-)
 
-![JobAppTracker]( <img width="1344" height="653" alt="foodsite5" src="https://github.com/user-attachments/assets/03f9facb-45f9-4426-ac3d-c24df4e297d7" />
-)
 
-![JobAppTracker]( <img width="1341" height="649" alt="foodsite6" src="https://github.com/user-attachments/assets/4bc63c0d-8f1c-4699-9927-8944c4be2571" />
-)
 ## Tech Stack
 
 - HTML + CSS + Bootstrap
@@ -43,7 +44,3 @@ Built with beginner-friendly React patterns, styled with Bootstrap and custom CS
 
 
 
-git clone https://github.com/yourusername/food-delivery-app.git
-cd food-delivery-app
-npm install
-npm start
